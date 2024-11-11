@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm currently working on building AI systems that leverage machine learning algorithms to solve real-world problems.<br>I'm looking to collaborate on innovative AI projects that focus on automation, natural language processing, and computer vision.<br>I'm looking for help with expanding my knowledge of deep learning frameworks like TensorFlow and PyTorch, as well as optimizing AI models for better performance.<br>I'm currently learning advanced AI techniques, including reinforcement learning and generative models, to enhance my problem-solving capabilities.<br>Ask me about AI in practical applications, from automating tasks to improving customer experiences using AI tools.<br>Fun fact I love creating AI-generated stories and publish them on my YouTube and TikTok channels!
+👋 Hi there! I'm Ibrahim Abdelsattar, a passionate AI and Data Science enthusiast currently studying Computer and Artificial Intelligence at MTI University in Cairo. My journey in tech has equipped me with a range of skills, from programming in Python and C++ to working with data science tools and machine learning frameworks.
+
+🌟 I'm especially interested in applying AI to solve real-world problems, and I enjoy exploring and learning about the latest advancements in this exciting field. In addition to coding, I have experience with data entry, customer support, and virtual assistance. I’m also currently advancing my expertise through the Digital Egypt Pioneers Initiative in the AI & Data Science track.
+
+🚀 I thrive in both team-based and independent projects, and I’m always open to new challenges and collaborations. I love experimenting with AI-driven tools to enhance productivity and tackle complex problems. Check out my repositories to see my latest projects, and feel free to reach out if you'd like to collaborate or chat about AI, tech, and everything in between!
 
 
 ## 🌐 Socials:
